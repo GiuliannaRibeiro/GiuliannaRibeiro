@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif)
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif)
 
 ## Oiii! eu sou a Giulianna Ribeiro
 
