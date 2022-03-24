@@ -2,7 +2,7 @@
 
 ## Oiii! eu sou a Giulianna Ribeiro
 
-- 🔭 Hoje curso sistemas de informação
+- 🔭 Hoje curso Análise e desenvolvimento de sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
 - 👯 Futura desenvolvedora frontend.
 
