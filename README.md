@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3][([https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif](https://pin.it/148e9P5)](https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv)
+![mariogif](https://user-images.githubusercontent.com/82107688/173905410-e6058cd6-4c04-4b44-bb47-094a9fc99cad.gif)
 
 ## Oiii! eu sou a Giulianna Ribeiro
 
