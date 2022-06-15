@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3]([https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif](https://pin.it/148e9P5))
+![c633c20ede82f0e0ced7d570dbe3a1f3]([https://c.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif](https://pin.it/148e9P5)
 
 ## Oiii! eu sou a Giulianna Ribeiro
 
