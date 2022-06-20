@@ -1,4 +1,4 @@
-![mariogif](https://user-images.githubusercontent.com/82107688/173905410-e6058cd6-4c04-4b44-bb47-094a9fc99cad.gif)
+![mariogif](https://user-images.githubusercontent.com/82107688/174672484-f1d88647-7940-40cb-9c32-044eaa4965e2.gif)
 
 ## About me:
 
