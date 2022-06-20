@@ -1,10 +1,10 @@
 ![mariogif](https://user-images.githubusercontent.com/82107688/173905410-e6058cd6-4c04-4b44-bb47-094a9fc99cad.gif)
 
-## Oiii! eu sou a Giulianna Ribeiro
+## About me:
 
-- 🔭 Cursando Análise e desenvolvimento de sistemas
-- 📚 Estudando HTML, CSS e JavaScript
-- 👩🏼‍💻 Futura desenvolvedora
+- 🔭 Studying Systems Analysis and Development
+- 📚 HTML, CSS and JavaScript
+- 👩🏼‍💻 Future developer
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
