@@ -2,8 +2,8 @@
 
 ## Oiii! eu sou a Giulianna Ribeiro
 
-- 🔭 Hoje curso Análise e desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Cursando Análise e desenvolvimento de sistemas
+- 📚 Estudando HTML, CSS e JavaScript
 - 👩🏼‍💻 Futura desenvolvedora
 
 <div align="center">
