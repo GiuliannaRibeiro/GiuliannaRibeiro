@@ -4,7 +4,7 @@
 
 - 🔭 Hoje curso Análise e desenvolvimento de sistemas
 - 🌱 Estudando HTML, CSS e JavaScript
-- 👯 Futura desenvolvedora
+- 👩🏼‍💻 Futura desenvolvedora
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
