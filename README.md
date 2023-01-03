@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Giulianna%20Ribeiro👨🏼‍💻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Hii,%20I%20am%20Giulianna%20Ribeiro!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82107688/210283341-248ded25-5489-46e1-b816-9795a3e0725a.gif" alt="animated" />
 </p>
@@ -11,7 +11,7 @@
 - 🎓 Studying Systems Analysis and Development
 - 📚 HTML, CSS and JavaScript
 - ☕ I like animes, coffee and cats!
-- 🖊 Currently studying english and React
+- 🖊 Currently studying ReactJS
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
