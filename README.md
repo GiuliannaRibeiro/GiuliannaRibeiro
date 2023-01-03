@@ -4,7 +4,7 @@
 
 ## Sobre mim: 
 
-- 🔭 Studying Systems Analysis and Development
+- 🎓 Studying Systems Analysis and Development
 - 📚 HTML, CSS and JavaScript
 - 👩🏼‍💻 Future developer
 
