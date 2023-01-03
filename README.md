@@ -1,4 +1,6 @@
-![4005b49eff8c815df7e3f23ce638fe8c](https://user-images.githubusercontent.com/82107688/210283341-248ded25-5489-46e1-b816-9795a3e0725a.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82107688/210283341-248ded25-5489-46e1-b816-9795a3e0725a.gif" alt="animated" />
+</p>
 
 ## Sobre mim: 
 
