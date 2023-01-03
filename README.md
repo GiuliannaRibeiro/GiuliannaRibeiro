@@ -8,10 +8,10 @@
   <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Junior+front-end+developer" />
 </p>
 
-- 🎓 Studying Systems Analysis and Development
-- 📚 HTML, CSS and JavaScript
-- ☕ I like animes, coffee and cats!
-- 🖊 Currently studying ReactJS
+- Studying Systems Analysis and Development
+- HTML, CSS and JavaScript
+- I like animes, coffee and cats!
+- Currently studying ReactJS
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
