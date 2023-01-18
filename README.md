@@ -5,7 +5,7 @@
 
 ## About me: 
 <p align="center">
-  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Intern+front-end+developer" />
+  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Software+front-QA+Intern" /> 
 </p>
 
 - Studying Systems Analysis and Development
