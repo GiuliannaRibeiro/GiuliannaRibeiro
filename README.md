@@ -11,7 +11,7 @@
 - Studying Systems Analysis and Development
 - HTML, CSS and JavaScript
 - I like animes, coffee and cats!
-- Currently studying ReactJS
+- Currently studying React and Robot Framework
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
