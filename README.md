@@ -9,9 +9,9 @@
 </p>
 
 - Studying Systems Analysis and Development
-- HTML, CSS and JavaScript
+- HTML, CSS, JavaScript, TypeScript and Angular
 - I like animes, coffee and cats!
-- Currently studying React and Robot Framework
+- Currently studying Angular
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
