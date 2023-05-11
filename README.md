@@ -25,7 +25,6 @@
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Giu-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Giu-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>      
-  <img align="center" alt="Giu-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Giu-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
           
   <a href="https://www.linkedin.com/in/giulianna-ribeiro/"><img align="right" alt="Giulianna-pic" src="https://i.picasion.com/pic92/ed96dfcb5fb8235c601cc2d62402fb4f.gif" height="125"><a/>
