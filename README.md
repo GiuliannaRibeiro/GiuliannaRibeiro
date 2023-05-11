@@ -9,7 +9,7 @@
 </p>
 
 - Studying Systems Analysis and Development
-- HTML, CSS, JavaScript, TypeScript and Angular
+- HTML, CSS, SASS, JavaScript, TypeScript and Angular
 - I like animes, coffee and cats!
 - Currently studying React.JS
 
