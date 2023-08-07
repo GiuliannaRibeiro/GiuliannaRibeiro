@@ -5,13 +5,13 @@
 
 ## About me: 
 <p align="center">
-  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Front-end+Web+Developer" /> 
+  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Fullstack+Developer" /> 
 </p>
 
 - Studying Systems Analysis and Development
-- HTML, CSS, SCSS, JavaScript, TypeScript and Angular
+- HTML, CSS, JavaScript, TypeScript, Angular, React and NodeJS
 - I like animes, coffee and cats!
-- Currently studying React.JS
+- Currently improving my knowledge about NodeJS
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
