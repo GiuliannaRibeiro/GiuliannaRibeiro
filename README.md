@@ -11,7 +11,7 @@
 - Studying Systems Analysis and Development
 - HTML, CSS, JavaScript, TypeScript, Angular, React and NodeJS
 - I like animes, coffee and cats!
-- Currently improving my knowledge about NodeJS and Typescript
+- Currently improving my knowledge about Angular and Typescript
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
