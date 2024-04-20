@@ -1,7 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49322A&height=160&section=header&text=Hii,%20I%20am%20Giulianna%20Ribeiro!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
-<p align="center">
-  <img width="100%" src="https://github.com/GiuliannaRibeiro/GiuliannaRibeiro/assets/82107688/291fdb20-c54d-4807-b9a5-1c6ed3712838.gif" alt="animated" />
-</p>
 
 ## About me: 
 <p align="center">
