@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=49322A&height=160&section=header&text=Hii,%20I%20am%20Giulianna%20Ribeiro!&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 <p align="center">
-<!--   <img width=100% src="https://user-images.githubusercontent.com/82107688/210283341-248ded25-5489-46e1-b816-9795a3e0725a.gif" alt="animated" /> -->
+  <img width="100%" src="https://github.com/GiuliannaRibeiro/GiuliannaRibeiro/assets/82107688/291fdb20-c54d-4807-b9a5-1c6ed3712838.gif" alt="animated" />
 </p>
 
 ## About me: 
@@ -19,10 +19,9 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliannaRibeiro&layout=compact&langs_count=7&theme=darcula"/> 
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Giu-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Giu-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<!--   <img align="center" alt="Giu-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> -->
   <img align="center" alt="Giu-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -30,15 +29,11 @@
   <img align="center" alt="Giu-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Giu-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>      
   <img align="center" alt="Giu-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-          
-  <!--<a href="https://www.linkedin.com/in/giulianna-ribeiro/"><img align="right" alt="Giulianna-pic" src="https://i.picasion.com/pic92/ed96dfcb5fb8235c601cc2d62402fb4f.gif" height="125"><a/>
-</div>-->
+</div>
   
 ##
 <div>
   <a href = "mailto:giuliannaribeiro00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giulianna-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <!--![snake gif](https://github.com/GiuliannaRibeiro/GiuliannaRibeiro/blob/output/github-contribution-grid-snake.svg)-->
-  
 </div>
+<!--![snake gif](https://github.com/GiuliannaRibeiro/GiuliannaRibeiro/blob/output/github-contribution-grid-snake.svg)-->
