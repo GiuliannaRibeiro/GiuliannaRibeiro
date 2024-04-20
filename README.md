@@ -5,10 +5,10 @@
   <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8CCBE&center=true&vCenter=true&width=500&lines=Fullstack+Developer" /> 
 </p>
 
-- Studying Systems Analysis and Development
-- HTML, CSS, JavaScript, TypeScript, Angular, React and NodeJS
+- Studying Systems Analysis and Development.
+- JavaScript, TypeScript, Angular, React and NodeJS.
 - I like animes, coffee and cats!
-- Currently improving my knowledge about React and Typescript
+- Currently improving my knowledge about NodeJs.
 
 <div align="center">
   <a href="https://github.com/GiuliannaRibeiro">
