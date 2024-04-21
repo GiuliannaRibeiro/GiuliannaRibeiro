@@ -7,7 +7,6 @@
 
 - Studying Systems Analysis and Development.
 - JavaScript, TypeScript, Angular, React and NodeJS.
-- I like animes, coffee and cats!
 - Currently improving my knowledge about NodeJs.
 
 <div align="center">
