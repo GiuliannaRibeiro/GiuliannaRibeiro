@@ -5,7 +5,7 @@
   <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8CCBE&center=true&vCenter=true&width=500&lines=Fullstack+Developer" /> 
 </p>
 
-- Studying Systems Analysis and Development.
+- Graduated in Systems Analysis and Development.
 - JavaScript, TypeScript, Angular, React and NodeJS.
 - Currently improving my knowledge about NodeJs.
 
