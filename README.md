@@ -2,7 +2,7 @@
 
 ## About me: 
 <p align="center">
-  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8CCBE&center=true&vCenter=true&width=500&lines=Fullstack+Developer" /> 
+  <img width=60% src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8CCBE&center=true&vCenter=true&width=500&lines=Software+Developer" /> 
 </p>
 
 - Graduated in Systems Analysis and Development.
