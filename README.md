@@ -6,7 +6,7 @@
 
 
 ## My name is Giulianna Ribeiro
-- 👩‍💻 Software Developer  
+- 👩‍💻 Software Engineer
 - 🎓 Graduated in Systems Analysis and Development  
 - 📘 Currently pursuing a Bachelor's degree in Software Engineering  
 - 🛠 JavaScript, TypeScript, Angular, React, and Node.js  
