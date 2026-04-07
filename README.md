@@ -13,9 +13,9 @@
 - 🌱 Continuously improving my skills in Angular and back-end development  
 - 💡 Always up for a good challenge
 
-<div align="left">
+<!-- <div align="left">
   <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuliannaRibeiro&layout=compact&langs_count=7&theme=default&bg_color=2e2d2c&title_color=ce7d4c&text_color=e0d8d5&icon_color=8c5e46"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
 <img align="center" alt="giu-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
