@@ -1,7 +1,7 @@
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ce7d4c?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulianna-ribeiro/)](https://www.linkedin.com/in/giulianna-ribeiro/)
-[![Personal Badge](https://img.shields.io/badge/-Portfolio-ce7d4c?style=flat-square&logo=Me&logoColor=white&link=https://giuliannaribeiro-portfolio.vercel.app)](https://giuliannaribeiro-portfolio.vercel.app)
+[![Personal Badge](https://img.shields.io/badge/-Portfolio-ce7d4c?style=flat-square&logo=Me&logoColor=white&link=https://giuliannaribeiro-portfolio.vercel.app)](https://giuliannaribeiro.vercel.app)
 [![Gmail Badge](https://img.shields.io/badge/-giuliannadev@gmail.com-ce7d4c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giuliannadev@gmail.com)](mailto:giuliannadev@gmail.com)
 
 
